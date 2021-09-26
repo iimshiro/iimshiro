@@ -1,0 +1,3 @@
+- 👋 Hey, I’m @iimshiro
+- 👀 Im learning Java + lua!
+- 📫 My Discord: s h i r o#3248
